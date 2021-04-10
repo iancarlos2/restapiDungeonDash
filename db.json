@@ -1,0 +1,26 @@
+{
+  "Jogadores": [
+    {
+      "id": 1,
+      "nome": "Sebastian",
+      "highscore": "130000",
+      "email": "sebastian@codingthesmartway.com",
+      "senha": "123456789"
+    },
+    {
+      "id": 2,
+      "nome": "Joseph",
+      "highscore": "180000",
+      "email": "Joseph@codingthesmartway.com",
+      "senha": "123456789"
+    },
+    {
+      "id": 3,
+      "nome": "Anna",
+      "highscore": "145000",
+      "email": "Anna@codingthesmartway.com",
+      "senha": "123456789"
+    },
+
+  ]
+}
