@@ -1,0 +1,24 @@
+{
+  "name": "RestAPIDungeonDash",
+  "version": "1.0.0",
+  "description": "RestAPI para o jogo Dungeon Dash",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iancarlos2/restapiDungeonDash.git"
+  },
+  "keywords": [],
+  "author": "Ian Carlos R. de Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iancarlos2/restapiDungeonDash/issues"
+  },
+  "homepage": "https://github.com/iancarlos2/restapiDungeonDash#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
