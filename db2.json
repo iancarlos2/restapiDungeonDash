@@ -15,12 +15,11 @@
       "senha": "123456789"
     },
     {
-      "id": 3,
-      "nome": "Anna",
-      "highscore": "145000",
-      "email": "Anna@codingthesmartway.com",
-      "senha": "123456789"
-    },
-
+      "nome": "zézin",
+      "highscore": "10000",
+      "email": "Zézin@codingthesmartway.com",
+      "senha": "12345",
+      "id": 3
+    }
   ]
 }
